@@ -4,26 +4,13 @@ Welcome to the Data Structures and Algorithms (DSA) repository! This repository 
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [File Structure](#file-structure)
-3. [Contributing](#contributing)
-4. [Resources](#resources)
-5. [License](#license)
+1. [Introduction](#introduction.
+2. [Contributing](#contributing)
+3. [License](#license)
 
 ## Introduction
 
 Data structures and algorithms are fundamental concepts in computer science and are essential for solving complex problems efficiently. This repository serves as a centralized resource for learning and practicing DSA concepts. Here, you'll find detailed explanations of algorithms and data structures, along with implementations in various programming languages.
-
-## File Structure
-
-The repository is organized as follows:
-
-- **algorithms/**: Contains explanations and implementations of algorithms categorized by type (e.g., sorting, searching).
-- **data_structures/**: Provides explanations and implementations of various data structures (e.g., arrays, linked lists, trees).
-- **problems/**: Includes problem statements and solutions categorized by topic (e.g., array problems, graph problems).
-- **resources/**: Contains additional materials such as textbooks, images, and research papers related to DSA.
-
-For a detailed overview of the file structure, refer to [this document](file-structure.md).
 
 ## Contributing
 
@@ -37,13 +24,6 @@ Contributions to this repository are highly encouraged! Whether you want to fix 
 6. Wait for the maintainers to review your PR. Make any requested changes if necessary.
 
 For more detailed instructions on contributing, please read [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Resources
-
-- [Books](resources/books.md): List of recommended books for learning DSA.
-- [Videos](resources/videos.md): Collection of video tutorials on DSA concepts.
-- [Articles](resources/articles.md): Links to informative articles about DSA.
-- [Tools](resources/tools.md): Useful tools and resources for DSA development.
 
 ## License
 
